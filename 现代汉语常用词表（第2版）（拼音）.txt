@@ -53340,7 +53340,7 @@
 争先	zhēngxiān	14957
 阵式	zhènshì	53826
 镇定	zhèndìng	10767
-争先恐后	zhēngxiānkǒnghòu	315063
+争先恐后	zhēngxiānkǒnghòu	15063
 阵势	zhènshì	18210
 镇定自若	zhèndìngzìruò	35057
 阵痛	zhèntòng	21405

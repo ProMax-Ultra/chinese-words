@@ -497,10 +497,10 @@
 芭蕾舞		bālěiwǔ		14472
 把尿		bǎniào		51209
 霸道		bàdao		19533
-吧嗒		bādā,bāda		34634
+吧嗒		bādā，bāda		34634
 把式		bǎshi		20652
 霸气		bàqì		25273
-吧唧		bājī,bāji		47991
+吧唧		bājī，bāji		47991
 把手		bǎshou		23066
 霸权		bàquán		14365
 吧女		bānǚ		54889
@@ -1110,7 +1110,7 @@
 饱满		bǎomǎn		9147
 镑		bàng		20694
 包养		bāoyǎng		46187
-饱食终日，无所用心		bǎoshízhōngrì,wúsuǒyòngxīn		53356
+饱食终日，无所用心		bǎoshízhōngrì，wúsuǒyòngxīn		53356
 包		bāo		884
 包圆儿		bāoyuánr		56346
 包办		bāobàn		14001
@@ -1872,7 +1872,7 @@
 崩坍		bēngtān		55431
 鼻腔		bíqiāng		22432
 比翼齐飞		bǐyìqífēi		39401
-绷		bēng,běng,bèng		14162
+绷		bēng，běng，bèng		14162
 鼻青脸肿		bíqīngliǎnzhǒng		34497
 比喻		bǐyù		8260
 绷带		bēngdài		21202
@@ -4796,7 +4796,7 @@
 谶语		chènyǔ		42507
 沉静		chénjìng		11345
 陈皮		chénpí		44049
-称		chēng,chèn		448
+称		chēng，chèn		448
 沉疴		chénkē		40465
 陈请		chénqǐng		40705
 称霸		chēngbà		18107
@@ -5443,7 +5443,7 @@
 赤字		chìzì		7758
 冲账		chōngzhàng		44217
 重播		chóngbō		32402
-赤足		chìzú,		33966
+赤足		chìzú		33966
 冲撞		chōngzhuàng		18807
 重唱		chóngchàng		33330
 饬令		chìlìng		30354
@@ -8815,7 +8815,7 @@
 地热		dìrè		12252
 底线		dǐxiàn		18110
 地沟		dìgōu		31934
-地上		dìshàng,dìshang		1872
+地上		dìshàng，dìshang		1872
 底薪		dǐxīn		51266
 地广人稀		dìguǎngrénxī		29108
 地势		dìshì		10332
@@ -14950,7 +14950,7 @@
 呱		guā		20568
 挂号		guàhào		16246
 顾此失彼		gùcǐshībǐ		28407
-呱嗒		guādā,guāda		52551
+呱嗒		guādā，guāda		52551
 挂号处		guàhàochù		44807
 顾及		gùjí		10891
 呱呱叫		guāguājiào		39030
@@ -17623,7 +17623,7 @@
 花肥		huāféi		56039
 花盆		huāpén		21420
 花招儿		huāzhāor		25599
-花费		huāfèi,huāfei		6727
+花费		huāfèi，huāfei		6727
 花瓶		huāpíng		14965
 花枝招展		huāzhīzhāozhǎn		29238
 花粉		huāfěn		14676
@@ -18366,7 +18366,7 @@
 回荡		huídàng		12547
 回去		huíqù		1883
 挥发油		huīfāyóu		55060
-回电		huídiàn,		33595
+回电		huídiàn		33595
 回绕		huírào		47471
 挥戈		huīgē		46272
 回跌		huídiē		52154
@@ -19391,7 +19391,7 @@
 己任		jǐrèn		12568
 急骤		jízhòu		30707
 集体婚礼		jítǐhūnlǐ		35730
-己所不欲，勿施于人		jǐsuǒbùyù,wùshīyúrén		36498
+己所不欲，勿施于人		jǐsuǒbùyù，wùshīyúrén		36498
 急转弯		jízhuǎnwān		36343
 集体经济		jítǐjīngjì		8906
 急转直下		jízhuǎnzhíxià		30708
@@ -20098,7 +20098,7 @@
 兼收并蓄		jiānshōubìngxù		30833
 坚壁清野		jiānbìqīngyě		39470
 艰深		jiānshēn		32303
-兼听则明，偏信则暗		jiāntīngzémíng,piānxìnzéàn		56480
+兼听则明，偏信则暗		jiāntīngzémíng，piānxìnzéàn		56480
 坚冰		jiānbīng		25368
 艰险		jiānxiǎn		14213
 坚不可摧		jiānbùkěcuī		35454
@@ -21733,7 +21733,7 @@
 近海		jìnhǎi		15346
 浸渍		jìnzì		43363
 进化		jìnhuà		7072
-近乎		jìnhū,jìnhu		9115
+近乎		jìnhū，jìnhu		9115
 禁		jìn		3910
 进化论		jìnhuàlùn		19348
 近郊		jìnjiāo		16872
@@ -21805,7 +21805,7 @@
 近照		jìnzhào		46291
 禁药		jìnyào		38658
 进献		jìnxiàn		52599
-近朱者赤，近墨者黑		jìnzhūzhěchì,jìnmòzhěhēi		55100
+近朱者赤，近墨者黑		jìnzhūzhěchì，jìnmòzhěhēi		55100
 禁用		jìnyòng		19370
 进香		jìnxiāng		43111
 禁渔		jìnyú		29744
@@ -23452,7 +23452,7 @@
 靠山		kàoshān		16168
 抗联		kànglián		27272
 考虑		kǎolǜ		678
-靠山吃山，靠水吃水		kàoshānchīshān,kàoshuǐchīshuǐ		54581
+靠山吃山，靠水吃水		kàoshānchīshān，kàoshuǐchīshuǐ		54581
 抗命		kàngmìng		29525
 考评		kǎopíng		10247
 抗凝		kàngníng		55118
@@ -26610,7 +26610,7 @@
 聋子		lóngzi		25611
 蝼蛄		lóugū		45426
 芦花		lúhuā		20430
-笼		lóng,lǒng		7837
+笼		lóng，lǒng		7837
 蝼蚁		lóuyǐ		42120
 芦荟		lúhuì		39071
 笼屉		lóngtì		45425
@@ -27935,7 +27935,7 @@
 焖		mèn		24705
 猛禽		měngqín		42616
 弥留		míliú		23906
-蒙		mēng,měng		18313
+蒙		mēng，měng		18313
 猛然		měngrán		7212
 弥漫		mímàn		7333
 蒙蒙亮		mēngmēngliàng		30070
@@ -29870,7 +29870,7 @@
 宁死不屈		nìngsǐbùqū		38678
 牛饮		niúyǐn		50280
 嗫嚅		nièrú		18665
-宁为玉碎，不为瓦全		nìngwéiyùsuì,bùwéiwǎquán		51404
+宁为玉碎，不为瓦全		nìngwéiyùsuì，bùwéiwǎquán		51404
 牛仔		niúzǎi		23583
 镊子		nièzi		32863
 牛仔服		niúzǎifú		46338
@@ -29916,7 +29916,7 @@
 宁夏		níngxià		3838
 牛犊子		niúdúzi		53609
 扭头		niǔtóu		10375
-拧		níng,nǐng,nìng		6320
+拧		níng，nǐng，nìng		6320
 牛肝菌		niúgānjùn		56564
 扭秧歌		niǔyāngge		29446
 狞笑		níngxiào		24662
@@ -33652,12 +33652,12 @@
 取证		qǔzhèng		12139
 屈		qū		9092
 渠		qú		8135
-取之不尽，用之不竭		qǔzhībùjìn,yòngzhībùjié		47561
+取之不尽，用之不竭		qǔzhībùjìn，yòngzhībùjié		47561
 屈才		qūcái		51049
 渠道		qúdào		2576
 屈从		qūcóng		24259
 曲		qǔ		2339
-取之于民，用之于民		qǔzhīyúmín,yòngzhīyúmín		47868
+取之于民，用之于民		qǔzhīyúmín，yòngzhīyúmín		47868
 屈打成招		qūdǎchéngzhāo		46358
 曲调		qǔdiào		18378
 屈服		qūfú		11639
@@ -33771,7 +33771,7 @@
 全活儿		quánhuór		43416
 全文		quánwén		7771
 圈阅		quānyuè		52695
-全集		quánjí,		11553
+全集		quánjí		11553
 全武行		quánwǔháng		54151
 圈占		quānzhàn		34859
 全家福		quánjiāfú		26632
@@ -35258,7 +35258,7 @@
 痧		shā		36715
 杀掠		shālüè		42921
 沙门		shāmén		31981
-煞		shā,shà		8501
+煞		shā，shà		8501
 杀气		shāqì		25317
 沙弥		shāmí		44175
 煞车		shāchē		50671
@@ -36157,7 +36157,7 @@
 麝香		shèxiāng		38902
 身怀六甲		shēnhuáiliùjiǎ		45777
 射击场		shèjīchǎng		33387
-谁		shéi,shuí		627
+谁		shéi，shuí		627
 身家性命		shēnjiāxìngmìng		34036
 身价		shēnjià		14303
 深更半夜		shēngēngbànyè		24716
@@ -36975,7 +36975,7 @@
 十年浩劫		shíniánhàojié		25712
 石蜡		shílà		34717
 狮子舞		shīziwǔ		49586
-十年树木，百年树人		shíniánshùmù,bǎiniánshùrén		45192
+十年树木，百年树人		shíniánshùmù，bǎiniánshùrén		45192
 石料		shíliào		21188
 施		shī		3195
 石林		shílín		19466
@@ -37898,7 +37898,7 @@
 受益		shòuyì		4738
 首义		shǒuyì		32348
 受贿		shòuhuì		7772
-受用		shòuyòng,shòuyong		24720
+受用		shòuyòng，shòuyong		24720
 首映		shǒuyìng		32622
 受惠		shòuhuì		21818
 首映式		shǒuyìngshì		28791
@@ -38100,7 +38100,7 @@
 赎罪		shúzuì		21819
 署理		shǔlǐ		36726
 舒松		shūsōng		56667
-熟		shú,shóu		1740
+熟		shú，shóu		1740
 署名		shǔmíng		7693
 舒坦		shūtan		19706
 熟谙		shú'ān		38149
@@ -38773,7 +38773,7 @@
 司马		sīmǎ		13319
 私见		sījiàn		41945
 说理		shuōlǐ		19014
-司马昭之心，路人皆知		sīmǎzhāozhīxīn,lùrénjiēzhī		56784
+司马昭之心，路人皆知		sīmǎzhāozhīxīn，lùrénjiēzhī		56784
 私交		sījiāo		34451
 说媒		shuōméi		34584
 私立		sīlì		17969
@@ -42423,7 +42423,7 @@
 万事亨通		wànshìhēngtōng		50719
 王八		wángba		13229
 网络电话		wǎngluòdiànhuà		55735
-万事俱备，只欠东风		wànshìjùbèi,zhǐqiàndōngfēng		50720
+万事俱备，只欠东风		wànshìjùbèi，zhǐqiàndōngfēng		50720
 王朝		wángcháo		8342
 网络化		wǎngluòhuà		10846
 王储		wángchǔ		20290
@@ -43530,7 +43530,7 @@
 无暇		wúxiá		12870
 无缘无故		wúyuánwúgù		19742
 无限		wúxiàn		3068
-无源之水，无本之木		wúyuánzhīshuǐ,wúběnzhīmù		53230
+无源之水，无本之木		wúyuánzhīshuǐ，wúběnzhīmù		53230
 无事生非		wúshìshēngfēi		37796
 无线电		wúxiàndiàn		9386
 无视		wúshì		9201
@@ -47253,7 +47253,7 @@
 雪中送炭		xuězhōngsòngtàn		17946
 学名		xuémíng		27016
 学者		xuézhě		1129
-血		xuè,xiě		1579
+血		xuè，xiě		1579
 学年		xuénián		16932
 学制		xuézhì		20552
 血癌		xuè'ái		46727
@@ -47895,7 +47895,7 @@
 眼高手低		yǎngāoshǒudī		47626
 沿着		yánzhe		3266
 颜料		yánliào		17085
-眼观六路，耳听八方		yǎnguānliùlù,ěrtīngbāfāng		49667
+眼观六路，耳听八方		yǎnguānliùlù，ěrtīngbāfāng		49667
 研		yán		7308
 颜面		yánmiàn		27541
 研读		yándú		19438
@@ -49356,7 +49356,7 @@
 以小见大		yǐxiǎojiàndà		42231
 义气		yìqi		17215
 以讹传讹		yǐ'échuán'é		36922
-以眼还眼，以牙还牙		yǐyǎnhuányǎn,yǐyáhuányá		54815
+以眼还眼，以牙还牙		yǐyǎnhuányǎn，yǐyáhuányá		54815
 义赛		yìsài		26747
 以防不测		yǐfángbùcè		41536
 义师		yìshī		39590
@@ -49703,7 +49703,7 @@
 因素		yīnsù		1026
 阴囊		yīnnáng		51157
 意象		yìxiàng		12006
-因特网		yīntèwǎng,		7075
+因特网		yīntèwǎng		7075
 阴平		yīnpíng		50039
 意兴		yìxìng		42233
 因为		yīnwèi		106
@@ -50136,7 +50136,7 @@
 营区		yíngqū		17373
 英豪		yīngháo		32782
 迎春花		yíngchūnhuā		37448
-营生		yíngshēng,yíngsheng		21558
+营生		yíngshēng，yíngsheng		21558
 英魂		yīnghún		38568
 迎风		yíngfēng		13644
 英杰		yīngjié		35964
@@ -51282,7 +51282,7 @@
 欲火		yùhuǒ		31560
 育才		yùcái		16445
 预见		yùjiàn		10135
-欲加之罪，何患无辞		yùjiāzhīzuì,héhuànwúcí		54837
+欲加之罪，何患无辞		yùjiāzhīzuì，héhuànwúcí		54837
 育雏		yùchú		48273
 预警		yùjǐng		6590
 育儿		yù'ér		33035
@@ -51420,7 +51420,7 @@
 豫剧		yùjù		18866
 元音		yuányīn		39168
 原名		yuánmíng		15564
-鹬蚌相争，渔翁得利		yùbàngxiāngzhēng,yúwēngdélì		56787
+鹬蚌相争，渔翁得利		yùbàngxiāngzhēng，yúwēngdélì		56787
 元月		yuányuè		23344
 原木		yuánmù		25201
 园		yuán		1967
@@ -53021,7 +53021,7 @@
 着魔		zháomó		45262
 照常		zhàocháng		12008
 招笑儿		zhāoxiàor		42242
-爪		zhǎo,zhuǎ		11651
+爪		zhǎo，zhuǎ		11651
 照抄		zhàochāo		19625
 招眼		zhāoyǎn		54315
 爪牙		zhǎoyá		21608
@@ -53774,7 +53774,7 @@
 知书达理		zhīshūdálǐ		43000
 支棱		zhīleng		51975
 枝干		zhīgàn		27707
-知无不言，言无不尽		zhīwúbùyán,yánwúbùjìn		48599
+知无不言，言无不尽		zhīwúbùyán，yánwúbùjìn		48599
 支离		zhīlí		28546
 枝节		zhījié		28463
 支离破碎		zhīlípòsuì		25008
@@ -54581,7 +54581,7 @@
 种痘		zhòngdòu		47975
 钟鼎文		zhōngdǐngwén		54326
 中规中矩		zhòngguīzhòngjǔ		43258
-种瓜得瓜，种豆得豆		zhòngguādéguā,zhòngdòudédòu		52866
+种瓜得瓜，种豆得豆		zhòngguādéguā，zhòngdòudédòu		52866
 钟鼓楼		zhōnggǔlóu		46766
 中计		zhòngjì		27088
 钟馗		zhōngkuí		40025
